@@ -1,8 +1,6 @@
+profesor_pesa = 75
 
-Profesor_pesa = 75
+peso_lunar = 0.165
 
-Peso_lunar = 0.165
-
-For i in range (1,16):
-
-Print (profesor_pesa * Peso_lunar * i) 
+for i in range (1,16):
+  print (profesor_pesa * peso_lunar * i) 
