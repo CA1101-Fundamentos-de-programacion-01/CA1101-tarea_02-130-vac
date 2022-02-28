@@ -1,7 +1,5 @@
- i = 2
+i = 2
  
-While (i < = 20):
-
- Print (i)
- 
+while (i < = 20):
+ print (i)
  i = i + 2
